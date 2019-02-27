@@ -14,8 +14,9 @@ public class Hello {
         System.out.println("hello");
         System.out.println("Matt was here");
         System.out.println("Tony is here finally HELLO EVERYONE!");
+        System.out.println("My github username is ptone07");
         System.out.println("Moses cannot be silenced!");
-        System.out.println("Moses' branch is the best!")
+        System.out.println("Moses' branch is the best!");
     }
     
 }
