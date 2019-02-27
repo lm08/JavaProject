@@ -11,11 +11,11 @@ package javaproject1;
  */
 public class Hello {
     public static void main(String args[]){
-        System.out.println("hello");
+        System.out.println("hello lm08 is leslie morales");
         System.out.println("Matt was here");
         System.out.println("Tony is here finally HELLO EVERYONE!");
         System.out.println("Moses cannot be silenced!");
-        System.out.println("Moses' branch is the best!")
+        System.out.println("Moses' branch is the best!");
     }
     
 }
