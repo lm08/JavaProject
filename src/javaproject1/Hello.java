@@ -14,6 +14,7 @@ public class Hello {
         System.out.println("hello");
         System.out.println("Matt was here");
         System.out.println("Tony is here finally HELLO EVERYONE!");
+        System.out.println("Moses cannot be silenced!");
     }
     
 }
